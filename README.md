@@ -2,9 +2,9 @@
 
 I'm João Teixeira, I am a brasilian dev student. 
 
-   Learning news tecnologies and developing projects.
-   Studying Full-Stack development on DevClub.
-   Learning more about HTML | CSS | JAVASCRIPT
+- Learning news tecnologies and developing projects.
+- Studying Full-Stack development on DevClub.
+- Learning more about HTML | CSS | JAVASCRIPT
 
 
 
