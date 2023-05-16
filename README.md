@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 🖖🏻
+
+I'm João Teixeira, I am a brasilian dev student. 
+
+   Learning news tecnologies and developing projects.
+   Studying Full-Stack development on DevClub.
+   Learning more about HTML | CSS | JAVASCRIPT
+
+
 
 <!--
 **JoaoLucasLeitao/JoaoLucasLeitao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
