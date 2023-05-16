@@ -3,11 +3,12 @@
 I'm João Teixeira, I am attending college of systems analysis and development. 
 <br>
 - Learning some tecnologies and developing projects.
-- Studying Full-Stack development on <a href="https://rodolfomori.com.br/pagina-de-espera/">DevClub</a>..
+- Studying Full-Stack development on <a href="https://rodolfomori.com.br/pagina-de-espera/">DevClub</a>
 - Learning more about HTML | CSS | JAVASCRIPT | REACT
-<br>
-<br>
-![JoaoLucasLeitao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLucasLeitao&theme=vision-friendly-dark&show_icons=true)
+<br/>
+<br/>
+
+![JoaoLucasLeitao Stats](https://github-readme-stats.vercel.app/api?username=JoaoLucasLeitao&theme=vision-friendly-dark&show_icons=true)
 
 
 
