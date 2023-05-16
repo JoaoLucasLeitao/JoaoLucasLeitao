@@ -6,6 +6,8 @@ I'm João Teixeira, I am a brasilian dev student.
 - Studying Full-Stack development on DevClub.
 - Learning more about HTML | CSS | JAVASCRIPT
 
+![JoaoLucasLeitao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLucasLeitao&theme=vision-friendly-dark&show_icons=true)
+
 
 
 <!--
