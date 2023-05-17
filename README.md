@@ -1,6 +1,6 @@
 <h2>Hi there 🖖🏻</h2>
 
-<h3>I'm João Teixeira.</h3>
+<h3>I'm João Lucas Teixeira.</h3>
 <h4>About me:</h4>
 <ul>
   <li>I am currently in college for systems analysis and development.</li>
