@@ -1,14 +1,19 @@
-### Hi there 🖖🏻
+<h2>Hi there 🖖🏻</h2>
 
-I'm João Teixeira, I am attending college of systems analysis and development. 
-<br>
-- Learning some tecnologies and developing projects.
-- Studying Full-Stack development on <a href="https://rodolfomori.com.br/pagina-de-espera/">DevClub</a>
-- Learning more about HTML | CSS | JAVASCRIPT | REACT
-<br/>
-<br/>
+<h3>I'm João Teixeira.</h3>
+<h4>About me:</h4>
+<ul>
+  <li>I am currently in college for systems analysis and development.</li>
+  <li>Learning some tecnologies and developing projects.</li>
+  <li> Studying Full-Stack development on <a href="https://rodolfomori.com.br/pagina-de-espera/">DevClub</a></li>
+  <li>Learning more about HTML | CSS | JAVASCRIPT | REACT</li>
+</ul> 
+<br />
+<br />
 
 ![JoaoLucasLeitao Stats](https://github-readme-stats.vercel.app/api?username=JoaoLucasLeitao&theme=vision-friendly-dark&show_icons=true)
+
+
 
 
 
